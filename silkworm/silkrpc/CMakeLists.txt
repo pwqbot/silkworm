@@ -21,6 +21,7 @@ find_package(gRPC REQUIRED)
 find_package(jwt-cpp REQUIRED)
 find_package(nlohmann_json REQUIRED)
 find_package(roaring REQUIRED)
+find_package(intx REQUIRED)
 
 # Silkrpc library
 file(
